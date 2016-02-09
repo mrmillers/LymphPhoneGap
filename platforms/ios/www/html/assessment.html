@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" type="text/css" href="../css/content.css">
+        <script type="text/javascript" src="../lib/js/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="../lib/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../js/global.js"></script> 
+		<script type="text/javascript" src="../js/assess.js"></script>
+		<title>Lymphedema</title>
+	</head>
+	<body onload="gen_query();">
+		<nav class="navbar navbar-default navbar-fixed-top">
+	      <div class="container">
+	        <p class="navbar-btn">
+	          <a class="btn btn-default back" href="#" url="content.html"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+	         </p>
+	      </div>
+	    </nav>
+    <div class="container ">
+  <div class="jumbotron alert alert-warning ">
+    <div class="row"><div class="col-xs-12">
+  The following questions are about your symptom experiences in your affected limb in the past 4 weeks. The word "affected" means the same body side on which you received breast surgery or radiation. The word "limb" means the affected arm and hand.
+    </div></div>
+  </div>
+  <div class="jumbotron alert alert-warning">
+    <div class="row"><div class="col-xs-12">
+    On which body side did you receive surgery or radiation for breast cancer?
+    </div></div>
+    <div class="row">
+      <div class="col-xs-6"><input type="checkbox" id="affected-left" /> Affected Left</div>
+      <div class="col-xs-6"><input type="checkbox" id="affected-right"/> Affected Right</div>
+    </div>
+  </div>
+</div>
+
+		<div class="container" id="query_div"></div>
+	</body>
+</html>

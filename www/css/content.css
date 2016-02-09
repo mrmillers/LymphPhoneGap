@@ -1,0 +1,38 @@
+.navbar-fixed-top {
+	padding-top: 10px;
+	
+}
+.navbar-fixed-bottom {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+body{
+	padding-top: 75px;
+}
+
+.jumbotron{
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: 5%;
+}
+
+.vcenter {
+	display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+video {
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.modal-dialog{
+	padding-top: 30vh;
+}
+
+button.close {
+	display: none;
+}

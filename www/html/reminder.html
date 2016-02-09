@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap-switch.css" >
+		<link rel="stylesheet" type="text/css" href="../css/content.css">
+    <script type="text/javascript" src="../cordova.js"></script>
+    <script type="text/javascript" src="../lib/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="../lib/js/bootstrap.min.js"></script> 
+		<script type="text/javascript" src="../lib/js/bootstrap-switch.js"></script>
+		<script type="text/javascript" src="../js/global.js"></script>
+		<script type="text/javascript" src="../js/reminder.js"></script>
+		
+		<title>Lymphedema</title>
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top" url="nav.html">
+	      	<div class="container">
+				<p class="navbar-btn">
+				<a class="btn btn-default back" url='../html/content.html'><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a>
+	 			</p>
+			</div>
+	    </nav>
+		<div class="container">
+			<p class="alert alert-info">Recommended Practice</p>
+			<div class="jumbotron">
+				<div class="row">
+  					<div class="col-xs-4 vcenter"><input type="checkbox" id="two" ></div><div class="col-xs-8 vcenter">
+  						<h3>Twice a day</h3>
+  						<ul>
+  							<li>Morning: 7:00</li>
+  							<li>Night: 21:00</li>
+  						</ul>
+  					</div>
+				</div>
+			</div>
+			<div class="jumbotron">
+				<div class="row">
+  					<div class="col-xs-4 vcenter"><input type="checkbox" id="three" ></div><div class="col-xs-8 vcenter">
+  						<h3>Three times a day</h3>
+  						<ul>
+  							<li>Morning: 7:00</li>
+  							<li>Noon: 12:00</li>
+  							<li>Night: 21:00</li>
+  						</ul>
+  					</div>
+				</div>
+			</div>
+			<p class="alert alert-info">Custom Alerts</p>
+			<div id="custom_alert"></div>
+			<div class="jumbotron alert alert-danger text-center forward" url="clock.html" >
+				<div class="row">
+  					<div class="col-xs-12 vcenter">
+  						<h3>Add Alarm</h3>
+  					</div>
+				</div>
+			</div>
+			
+		</div>
+	</body>
+</html>

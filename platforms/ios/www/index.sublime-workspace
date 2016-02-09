@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inp",
+				"input_pass"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pas",
+				"input_pass"
+			],
+			[
+				"in",
+				"input_pass"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"subm",
+				"submit_button"
+			],
+			[
+				"qu",
+				"query_id"
+			],
+			[
+				"query",
+				"query_answer"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"re",
+				"result_div"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Ge",
+				"GET"
+			],
+			[
+				"Inverted",
+				"InvertedIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yan/Documents/Projects/LymphedemaPhoneGap/www/html/content.html",
+		"/Users/Yan/Documents/Projects/LymphedemaPhoneGap/www/html/login.html",
+		"/Users/Yan/Documents/Projects/LymphedemaPhoneGap/www/index.html",
+		"/Users/Yan/Documents/Projects/LymphedemaPhoneGap/www/html/signup.html",
+		"/Users/Yan/Documents/Projects/LymphedemaPhoneGap/www/js/index.js",
+		"/Users/Yan/Documents/Projects/test/config.xml",
+		"/Users/Yan/Documents/Projects/test/www/spec.html",
+		"/Users/Yan/Documents/Projects/test/www/html/login.html",
+		"/Users/Yan/Documents/Projects/test/www/login.html",
+		"/Users/Yan/Desktop/file.html",
+		"/Users/Yan/Desktop/parse-js-blank/index.html",
+		"/Users/Yan/Documents/Projects/test/www/index.html",
+		"/Users/Yan/Desktop/DAILY EXERCISES _ Study.html",
+		"/Users/Yan/Documents/Projects/lymphedema_dev_2015-04-24T17-20-45_UTC_database.sql",
+		"/Users/Yan/Documents/Projects/NYTSite/search/templates/search/advanced_search.html",
+		"/Users/Yan/Documents/Projects/NYTSite/search/templates/search/index.html",
+		"/Users/Yan/Documents/Projects/NYTSite/search/views.py",
+		"/Users/Yan/Documents/Projects/NYTSite/search/urls.py",
+		"/Users/Yan/Documents/Projects/NYTSite/js/map.js",
+		"/Users/Yan/Documents/Projects/NYTSite/NYTSite/settings.py",
+		"/Users/Yan/Documents/Projects/InvertedIndex/PythonModule/setup_mac.py",
+		"/Users/Yan/Documents/Projects/InvertedIndex/PythonModule/nytquery.cpp",
+		"/Users/Yan/Documents/Projects/InvertedIndex/InvertedIndex/ilist.h",
+		"/Users/Yan/Documents/Projects/InvertedIndex/InvertedIndex/ilist.cpp",
+		"/Users/Yan/Downloads/data/4c/tux-4/polybot/gzipped_sorted_nz/vol_0_99/0_index",
+		"/Users/Yan/Downloads/data/4c/tux-4/polybot/gzipped_sorted_nz/vol_0_99/0_data",
+		"/Users/Yan/Desktop/freeglut-2.8.1/README.win32",
+		"/Users/Yan/Documents/socket",
+		"/Users/Yan/Documents/NYU/course/web search engine/crawler1/summary.txt",
+		"/Users/Yan/Documents/Code/CPP/BinomialTree/BinomialTree/BinomialTree.h",
+		"/Users/Yan/Documents/个人事务/http:::tieba.baidu.com:p:3183499365 9月"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"numberTrueOfGroup(3)",
+			"isTrueOfGroup(4)",
+			"isTrueOfGroup(3)",
+			"isTrueOfGroup(2)",
+			"isTrueOfGroup(1)",
+			"group4",
+			"group3",
+			"group2",
+			"group1",
+			"text-decoration: underline;",
+			"</li>",
+			"**",
+			"easy",
+			"STATICFILES",
+			"static"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"group[3]",
+			"group[4]>0",
+			"group[3]>0",
+			"group[2]>0",
+			"group[1]>0",
+			"4",
+			"3",
+			"2",
+			"1",
+			"color: #808080;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
